@@ -1,5 +1,5 @@
 // Allow Password Remembering on webtop
-// version 0.5
+// version 1.1
 // 2015-04-18
 // Copyright (c) 2015, Amit Palti
 // Released under the MIT license
@@ -17,7 +17,7 @@
 //  the GreaseMonkey configuration.
 //
 // To uninstall, go to Tools/Manage User Scripts,
-// select "Allow Password Remembering", and click Uninstall.
+// select "webtopSiteAutoPassword", and click Uninstall.
 //
 // --------------------------------------------------------------------
 //
