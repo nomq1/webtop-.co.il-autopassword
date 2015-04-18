@@ -30,14 +30,10 @@
 // @name            Allow Password Remembering webtop
 // @namespace       nomq
 // @description     Removes autocomplete="off" attributes , make the webtop site autocomplete my username and password
-// @include         https://www.webtop.co.il/v2/default.aspx/*
+// @include         https://www.webtop.co.il/*
 // @version         1.1
 // @run-at document-end
 // ==/UserScript==
-
-// Updated (2005/09/09):
-// Included Mark Pilgrim's fix for DeerPark:
-// must access element.attributes as an array of objects and use .name and .value properties, can't shortcut with element.attributes['autocomplete']
 
 
 
